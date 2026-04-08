@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=250&section=header&text=TEAM-CZUCA&fontSize=65&fontColor=white&animation=twinkling&fontAlignY=40&desc=Cyber%20Zulfiqar%20Under%20Cover%20Agency&descSize=18&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=220&section=header&text=TEAM-CZUCA&fontSize=55&fontColor=white&animation=twinkling&fontAlignY=35&desc=Cyber%20Zulfiqar%20Under%20Cover%20Agency&descSize=16&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦;✦+Operational+Security+First+✦" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦" alt="Typing Animation"/>
 </p>
 
 ---
