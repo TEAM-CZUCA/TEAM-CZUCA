@@ -1,12 +1,12 @@
 <!--- TEAM-CZUCA COMPLETE GITHUB PROFILE README --->
-<!--- Version: 1.0 | Last Updated: April 2026 --->
+<!--- Includes Social Media Buttons | Version: 2.0 --->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=220&section=header&text=TEAM-CZUCA&fontSize=55&fontColor=white&animation=twinkling&fontAlignY=35&desc=Cyber%20Zulfiqar%20Under%20Cover%20Agency&descSize=16&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=200&section=header&text=TEAM-CZUCA&fontSize=52&fontColor=white&animation=twinkling&fontAlignY=35&desc=Cyber%20Zulfiqar%20Under%20Cover%20Agency&descSize=14&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦;✦+Operational+Security+First+✦" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦;✦+Operational+Security+First+✦" alt="Typing Animation"/>
 </p>
 
 ---
@@ -18,15 +18,19 @@
 
 | 🌍 Mission | 🔐 Core Values | 🎯 Vision |
 | :--- | :--- | :--- |
-| Eradicate digital obscenity & anti-faith content | Integrity · Anonymity · Justice · Accountability | Faith-respecting, obscenity-free cyberspace |
+| Eradicate digital obscenity & anti-ethics content | Integrity · Anonymity · Justice · Accountability | Faith-respecting, obscenity-free cyberspace |
 
 ---
 
 ## 📊 GitHub Analytics
 
+| 📈 Total Contributions | 🔥 Current Streak | ⏱️ Longest Streak |
+| :---: | :---: | :---: |
+| 5 | 1 day | 1 day |
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEAM-CZUCA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=CCCCCC&ring_color=00FF88" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEAM-CZUCA&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFB347&currStreakLabel=00FF88&sideLabels=CCCCCC" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TEAM-CZUCA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=CCCCCC&ring_color=00FF88" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEAM-CZUCA&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFB347&currStreakLabel=00FF88&sideLabels=CCCCCC" width="45%"/>
 </p>
 
 <p align="center">
@@ -38,10 +42,10 @@
 ## 🧰 Operational Toolset
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🕵️‍♂️_OSINT_Research-00FF88?style=for-the-badge&logo=security&logoColor=black&color=0D1117&labelColor=00FF88"/>
+  <img src="https://img.shields.io/badge/🕵️_OSINT_Research-00FF88?style=for-the-badge&logo=security&logoColor=black&color=0D1117&labelColor=00FF88"/>
   <img src="https://img.shields.io/badge/🔍_Digital_Forensics-00FF88?style=for-the-badge&logo=bugcrowd&logoColor=black&color=0D1117&labelColor=00FF88"/>
-  <img src="https://img.shields.io/badge/📑_Content_Analysis-00FF88?style=for-the-badge&logo=internetarchive&logoColor=black&color=0D1117&labelColor=00FF88"/>
-  <img src="https://img.shields.io/badge/🔒_Privacy_Tools-00FF88?style=for-the-badge&logo=privacybadger&logoColor=black&color=0D1117&labelColor=00FF88"/>
+  <img src="https://img.shields.io/badge/📊_Content_Analytics-00FF88?style=for-the-badge&logo=internetarchive&logoColor=black&color=0D1117&labelColor=00FF88"/>
+  <img src="https://img.shields.io/badge/🔒_Privacy_Tool-00FF88?style=for-the-badge&logo=privacybadger&logoColor=black&color=0D1117&labelColor=00FF88"/>
   <img src="https://img.shields.io/badge/📢_Cyber_Awareness-00FF88?style=for-the-badge&logo=googledocs&logoColor=black&color=0D1117&labelColor=00FF88"/>
 </p>
 
@@ -54,9 +58,9 @@
 
 | Repository | Focus Area | Status |
 | :--- | :--- | :--- |
-| `CZUCA-Awareness` | Bengali/English digital safety guides | 🔜 Under Review |
-| `Anti-Obscenity-Index` | Reference dataset for content filtering | 🔜 Under Review |
-| `CZUCA-Case-Reports` | Public cyber threat analysis & case studies | 🔜 Under Review |
+| `CZUCA-Awareness` | Bengali/English digital safety guides | 📌 Under Review |
+| `Anti-Obscenity-Index` | Reference dataset for content filtering | 📌 Under Review |
+| `CZUCA-Case-Reports` | Public cyber threat analysis & case studies | 📌 Under Review |
 
 > 👥 *Repositories will be made public after internal review. Follow this profile for updates.*
 
@@ -76,3 +80,9 @@ gantt
     Obscenity Report Pipeline       :2025-05, 2025-08
     OSINT Methodology Docs          :2025-09, 2025-12
     Public API (Content Warnings)   :2026-01, 2026-04
+
+🤝 Social Media & Contact
+📱 Official Channels (Buttons)
+<p align="center"> <a href="https://www.facebook.com/groups/816629734768093" target="_blank"> <img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:cz.uca.official@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://cyber24uca.info" target="_blank"> <img src="https://img.shields.io/badge/Website-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black&color=0D1117&labelColor=00FF88"/> </a> </p>
+🔹 Alternative Badge Style
+<p align="center"> <a href="https://www.facebook.com/groups/816629734768093" target="_blank"> <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/> </a> <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank"> <img src="https://img.shields.io/badge/📱_Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank"> <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="mailto:cz.uca.official@gmail.com"> <img src="https://img.shields.io/badge/✉️_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> <a href="https://cyber24uca.info" target="_blank"> <img src="https://img.shields.io/badge/🌐_Website-00FF88?style=flat-square&logo=googlechrome&logoColor=black"/> </a> </p>
