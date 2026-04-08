@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=✦+Independently+Against+Obscenity+%26+Atheism+✦;✦+Non-Profit+Digital+Ethics+Organization+✦;✦+Based+in+Bangladesh+✦" alt="Typing Animation"/>
 </p>
 
 ---
