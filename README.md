@@ -52,8 +52,8 @@
 
 | Repository | Focus Area | Status |
 | :--- | :--- | :--- |
-| `TERMUX SETUP` | ALL TOOLS INCLUDED | 📌 COMING SOON |
-| `TERMUX BANNER SETUP` | 30+ THEME AND TERMUX LOCK SYSTEM | 📌 COMING SOON |
+| `TERMUX SETUP` | ALL TOOLS INCLUDED | 📌 AVAILABLE |
+| `TERMUX BANNER SETUP` | 30+ THEME AND TERMUX LOCK SYSTEM | 📌 AVAILABLE |
 | `DDOS ATTACK TOOL` | MOST POWERFUL TOOL FOR DDOS | 📌 COMING SOON |
 
 ---
@@ -61,13 +61,16 @@
 ## 🤝 Social Media & Contact
 
 <p align="center">
+  <a href="https://www.facebook.com/CyberZulfiqarUnderCoverAgency" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/groups/816629734768093" target="_blank">
     <img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank">
+  <a href="https://github.com/TEAM-CZUCA" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:cz.uca.official@gmail.com">
@@ -85,9 +88,10 @@
 | Platform | Link / Handle |
 | :--- | :--- |
 | 📧 Email | `cz.uca.official@gmail.com` |
-| 🌐 Website | [https://cyber24uca.info](https://cyber24uca.info) |
-| 🐙 GitHub | [CyberZulfiqarUnderCoverAgency](https://github.com/CyberZulfiqarUnderCoverAgency) |
+| 📘 Facebook | [TEAM-CZUCA Official](https://www.facebook.com/CyberZulfiqarUnderCoverAgency) |
+| 🐙 GitHub | [CyberZulfiqarUnderCoverAgency](https://github.com/TEAM-CZUCA) |
 | 📘 Facebook | [TEAM-CZUCA Official](https://www.facebook.com/groups/816629734768093) |
+| 🌐 Website | [https://cyber24uca.info](https://cyber24uca.info) |
 | 📱 Telegram | [CYBER_ZULFIQAR_UCA_OFFICIAL](https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL) |
 
 ---
