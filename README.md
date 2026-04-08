@@ -88,11 +88,11 @@
 | Platform | Link / Handle |
 | :--- | :--- |
 | 📧 Email | `cz.uca.official@gmail.com` |
-| 📘 Facebook | [TEAM-CZUCA Official](https://www.facebook.com/CyberZulfiqarUnderCoverAgency) |
+| 📘 Facebook | [CyberZulfiqarUnderCoverAgency](https://www.facebook.com/CyberZulfiqarUnderCoverAgency) |
 | 🐙 GitHub | [CyberZulfiqarUnderCoverAgency](https://github.com/TEAM-CZUCA) |
-| 📘 Facebook | [TEAM-CZUCA Official](https://www.facebook.com/groups/816629734768093) |
-| 🌐 Website | [https://cyber24uca.info](https://cyber24uca.info) |
-| 📱 Telegram | [CYBER_ZULFIQAR_UCA_OFFICIAL](https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL) |
+| 📘 Facebook | [CyberZulfiqarUnderCoverAgency](https://www.facebook.com/groups/816629734768093) |
+| 🌐 Website | [CyberZulfiqarUnderCoverAgency](https://cyber24uca.info) |
+| 📱 Telegram | [CyberZulfiqarUnderCoverAgency](https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL) |
 
 ---
 
