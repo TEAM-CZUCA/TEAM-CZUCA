@@ -52,9 +52,9 @@
 
 | Repository | Focus Area | Status |
 | :--- | :--- | :--- |
-| `CZUCA-Awareness` | Bengali/English digital safety guides | 📌 Under Review |
-| `Anti-Obscenity-Index` | Reference dataset for content filtering | 📌 Under Review |
-| `CZUCA-Case-Reports` | Public cyber threat analysis & case studies | 📌 Under Review |
+| `TERMUX SETUP` | ALL TOOLS INCLUDED | 📌 COMING SOON |
+| `TERMUX BANNER SETUP` | 30+ THEME AND TERMUX LOCK SYSTEM | 📌 COMING SOON |
+| `DDOS ATTACK TOOL` | MOST POWERFUL TOOL FOR DDOS | 📌 COMING SOON |
 
 ---
 
