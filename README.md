@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🛡️ TEAM-CZUCA
+**Cyber Zulfiqar Under Cover Agency**
 
-<!--
-**TEAM-CZUCA/TEAM-CZUCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Independently | Against Obscenity & Atheism
 
-Here are some ideas to get you started:
+🇧🇩 Based in Bangladesh  
+📧 czu.ca.official@gmail.com  
+🌐 [cyber24uca.info](https://cyber24uca.info)  
+👥 [Facebook Group](https://www.facebook.com/groups/816629734768093)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Mission
+Protecting digital ethics & fighting against obscenity and atheism.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEAM-CZUCA&show_icons=true&theme=dark)
+
+## 🏷️ Badges
+![Non-Profit](https://img.shields.io/badge/Non--Profit-Organization-brightgreen)
+![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-red)
