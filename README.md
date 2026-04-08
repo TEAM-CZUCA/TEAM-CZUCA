@@ -1,5 +1,4 @@
 <!--- TEAM-CZUCA COMPLETE GITHUB PROFILE README --->
-<!--- Includes Social Media Buttons | Version: 2.0 --->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=200&section=header&text=TEAM-CZUCA&fontSize=52&fontColor=white&animation=twinkling&fontAlignY=35&desc=Cyber%20Zulfiqar%20Under%20Cover%20Agency&descSize=14&descAlignY=55" width="100%"/>
@@ -23,10 +22,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-| 📈 Total Contributions | 🔥 Current Streak | ⏱️ Longest Streak |
-| :---: | :---: | :---: |
-| 5 | 1 day | 1 day |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TEAM-CZUCA&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=CCCCCC&ring_color=00FF88" width="45%"/>
@@ -53,16 +48,13 @@
 
 ## 📌 Featured Initiatives
 
-> ⚡ **Note:** The repositories below will be automatically displayed here once you **pin them** in your GitHub profile.  
-> *(Go to your profile → Customize your pins → Select any public repository)*
+> ⚡ **Note:** The repositories below will be automatically displayed here once you **pin them** in your GitHub profile.
 
 | Repository | Focus Area | Status |
 | :--- | :--- | :--- |
 | `CZUCA-Awareness` | Bengali/English digital safety guides | 📌 Under Review |
 | `Anti-Obscenity-Index` | Reference dataset for content filtering | 📌 Under Review |
 | `CZUCA-Case-Reports` | Public cyber threat analysis & case studies | 📌 Under Review |
-
-> 👥 *Repositories will be made public after internal review. Follow this profile for updates.*
 
 ---
 
@@ -73,16 +65,25 @@ gantt
     title TEAM-CZUCA Roadmap (2025–2026)
     dateFormat YYYY-MM
     section Awareness
-    Launch Website & Guidelines     :done, 2025-01, 2025-03
-    Bengali Resource Library        :active, 2025-04, 2025-07
-    Community Training Modules      :2025-08, 2025-11
+    Launch Website & Guidelines :done, 2025-01, 2025-03
+    Bengali Resource Library :active, 2025-04, 2025-07
+    Community Training Modules :2025-08, 2025-11
     section Tools & Research
-    Obscenity Report Pipeline       :2025-05, 2025-08
-    OSINT Methodology Docs          :2025-09, 2025-12
-    Public API (Content Warnings)   :2026-01, 2026-04
-
+    Obscenity Report Pipeline :2025-05, 2025-08
+    OSINT Methodology Docs :2025-09, 2025-12
+    Public API (Content Warnings) :2026-01, 2026-04
 🤝 Social Media & Contact
-📱 Official Channels (Buttons)
 <p align="center"> <a href="https://www.facebook.com/groups/816629734768093" target="_blank"> <img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:cz.uca.official@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://cyber24uca.info" target="_blank"> <img src="https://img.shields.io/badge/Website-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black&color=0D1117&labelColor=00FF88"/> </a> </p>
-🔹 Alternative Badge Style
-<p align="center"> <a href="https://www.facebook.com/groups/816629734768093" target="_blank"> <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/> </a> <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank"> <img src="https://img.shields.io/badge/📱_Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank"> <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="mailto:cz.uca.official@gmail.com"> <img src="https://img.shields.io/badge/✉️_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> <a href="https://cyber24uca.info" target="_blank"> <img src="https://img.shields.io/badge/🌐_Website-00FF88?style=flat-square&logo=googlechrome&logoColor=black"/> </a> </p>
+📋 Contact Details
+Platform	Link
+📧 Email	cz.uca.official@gmail.com
+🌐 Website	https://cyber24uca.info
+🐙 GitHub	CyberZulfiqarUnderCoverAgency
+📘 Facebook	TEAM-CZUCA Official
+📱 Telegram	CYBER_ZULFIQAR_UCA_OFFICIAL
+📜 Ethics & Disclaimer
+✅ Allowed	❌ Not Allowed
+Ethical OSINT research	Doxxing or harassment
+Content reporting through legal channels	Unauthorized access
+Public awareness campaigns	Hate speech
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TEAM-CZUCA&label=Profile%20Views&color=00FF88&style=flat-square" /> <img src="https://img.shields.io/github/followers/TEAM-CZUCA?label=Followers&style=social" /> </p><p align="center"> <i>✦ Independently | Against Obscenity & Atheism ✦</i><br/> <b>© 2025-2026 TEAM-CZUCA</b> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=100&section=footer&animation=twinkling" width="100%"/> </p> ```
