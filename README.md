@@ -58,20 +58,8 @@
 
 ---
 
-## 🗓️ Strategic Roadmap
-'''
-gantt
-    title TEAM-CZUCA Roadmap (2025–2026)
-    dateFormat YYYY-MM
-    section Awareness
-    Launch Website & Guidelines :done, 2025-01, 2025-03
-    Bengali Resource Library :active, 2025-04, 2025-07
-    Community Training Modules :2025-08, 2025-11
-    section Tools & Research
-    Obscenity Report Pipeline :2025-05, 2025-08
-    OSINT Methodology Docs :2025-09, 2025-12
-    Public API (Content Warnings) :2026-01, 2026-04
-🤝 Social Media & Contact
+## Social Media & Contact
+
 <p align="center"> <a href="https://www.facebook.com/groups/816629734768093" target="_blank"> <img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://t.me/CYBER_ZULFIQAR_UCA_OFFICIAL" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/CyberZulfiqarUnderCoverAgency" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:cz.uca.official@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://cyber24uca.info" target="_blank"> <img src="https://img.shields.io/badge/Website-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black&color=0D1117&labelColor=00FF88"/> </a> </p>
 📋 Contact Details
 Platform	Link
@@ -86,4 +74,3 @@ Ethical OSINT research	Doxxing or harassment
 Content reporting through legal channels	Unauthorized access
 Public awareness campaigns	Hate speech
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TEAM-CZUCA&label=Profile%20Views&color=00FF88&style=flat-square" /> <img src="https://img.shields.io/github/followers/TEAM-CZUCA?label=Followers&style=social" /> </p><p align="center"> <i>✦ Independently | Against Obscenity & Atheism ✦</i><br/> <b>© 2025-2026 CYBER ZULFIQAR UNDER COVER AGENCY</b> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=100&section=footer&animation=twinkling" width="100%"/> </p>
-```
